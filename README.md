@@ -53,7 +53,7 @@
   
   <p><strong>Fale comigo: </strong></p>
   
-<a href="https://www.linkedin.com/in/lucasmribeiro7" target="_blank">
+<a href="https://www.linkedin.com/in/vagnerpsousa" target="_blank">
   <img src="https://icongr.am/devicon/linkedin-original.svg?size=40&color=currentColor" alt="" />
 </a>
   
